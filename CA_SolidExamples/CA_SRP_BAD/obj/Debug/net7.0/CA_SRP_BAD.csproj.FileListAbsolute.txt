@@ -1,0 +1,5 @@
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\CA_SRP_BAD\obj\Debug\net7.0\CA_SRP_BAD.csproj.AssemblyReference.cache
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\CA_SRP_BAD\obj\Debug\net7.0\CA_SRP_BAD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\CA_SRP_BAD\obj\Debug\net7.0\CA_SRP_BAD.AssemblyInfoInputs.cache
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\CA_SRP_BAD\obj\Debug\net7.0\CA_SRP_BAD.AssemblyInfo.cs
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\CA_SRP_BAD\obj\Debug\net7.0\CA_SRP_BAD.csproj.CoreCompileInputs.cache

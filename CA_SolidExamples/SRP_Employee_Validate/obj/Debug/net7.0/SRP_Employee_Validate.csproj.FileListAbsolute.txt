@@ -1,0 +1,15 @@
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\bin\Debug\net7.0\SRP_Employee_Validate.exe
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\bin\Debug\net7.0\SRP_Employee_Validate.deps.json
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\bin\Debug\net7.0\SRP_Employee_Validate.runtimeconfig.json
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\bin\Debug\net7.0\SRP_Employee_Validate.dll
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\bin\Debug\net7.0\SRP_Employee_Validate.pdb
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.csproj.AssemblyReference.cache
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.AssemblyInfoInputs.cache
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.AssemblyInfo.cs
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.dll
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\refint\SRP_Employee_Validate.dll
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.pdb
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\SRP_Employee_Validate.genruntimeconfig.cache
+D:\Program Files\Visual Projeler\BilgeAdamKurs\CA_SolidExamples\SRP_Employee_Validate\obj\Debug\net7.0\ref\SRP_Employee_Validate.dll
