@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MoviePage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MoviePage.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\Media\\Moviephoto.jpg",
+      "PackagePath": "staticwebassets\\Media\\Moviephoto.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\Media\\cinemagif.gif",
+      "PackagePath": "staticwebassets\\Media\\cinemagif.gif"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\Media\\cinemapontosmis.jpg",
+      "PackagePath": "staticwebassets\\Media\\cinemapontosmis.jpg"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\Media\\clapperboard.png",
+      "PackagePath": "staticwebassets\\Media\\clapperboard.png"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\Media\\movie (1).png",
+      "PackagePath": "staticwebassets\\Media\\movie (1).png"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\Media\\movie.png",
+      "PackagePath": "staticwebassets\\Media\\movie.png"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\css\\updateSite.css",
+      "PackagePath": "staticwebassets\\css\\updateSite.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Program Files\\Visual Projeler\\BilgeAdamKurs\\MoviePage\\MoviePage\\wwwroot\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MoviePage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MoviePage.props",
+      "PackagePath": "build\\MoviePage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MoviePage.props",
+      "PackagePath": "buildMultiTargeting\\MoviePage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MoviePage.props",
+      "PackagePath": "buildTransitive\\MoviePage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

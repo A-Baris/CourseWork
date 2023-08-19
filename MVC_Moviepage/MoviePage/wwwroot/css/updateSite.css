@@ -1,0 +1,33 @@
+﻿.labelx {
+    margin-left: 45%;
+    color: white;
+    font-weight: bold;
+}
+
+.boxx {
+    margin-left: 38%;
+    width: 400px
+}
+
+#description {
+    height: 150px;
+    margin-left: 38%;
+    width: 400px
+}
+
+#addbutton {
+    margin-left: 38%;
+    width: 400px;
+    background-color: white
+}
+
+#img1 {
+    width: 1000px;
+    height: 582px;
+    float: right;
+    margin-right: 100px;
+}
+
+#div1 {
+background-color:darkorange
+}

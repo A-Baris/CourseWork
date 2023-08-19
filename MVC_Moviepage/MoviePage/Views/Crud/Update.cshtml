@@ -1,0 +1,46 @@
+﻿@model MoviePage.Models.Movie
+@{
+    ViewData["Title"] = "Movies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<header class="text-bg-secondary py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="text-center text-white">
+            <h1 class="display-4 fw-bolder">@ViewData["Title"]</h1>
+            <p class="lead fw-normal text-white-50 mb-0">You can Update the movie</p>
+        </div>
+    </div>
+</header>
+<link rel="stylesheet" href="~/css/updateSite.css">
+<form asp-controller="Crud" asp-action="Update" method="post">
+    <div id="div1">
+
+
+
+        <div>
+            <label class="labelx"> Movie Name</label><br />
+            <input class="boxx" type="text" name="MovieName" value="Movie" />
+        </div>
+        <div>
+            <label class="labelx"> Published Date</label><br />
+            <input class="boxx" type="text" name="PublishedDate" value="2023" />
+        </div>
+        <div>
+            <label class="labelx"> Trailer Link</label><br />
+            <input class="boxx" type="text" name="TrailerHttp" value="Youtube embed" />
+        </div>
+        <div>
+            <label class="labelx"> Description</label><br />
+            <textarea class="boxx" name="Description">Summary</textarea>
+        </div>
+
+
+
+        <button id="addbutton" type="submit">Update</button>
+
+    </div>
+</form>
+
+

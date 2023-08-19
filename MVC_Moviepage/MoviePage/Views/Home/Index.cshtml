@@ -1,0 +1,50 @@
+﻿@model List<MoviePage.Models.Movie>
+
+@{
+    ViewData["Title"] = "Welcom to MyCinemaWorld ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Header-->
+<header class="bg-dark py-5">
+    <div class="container px-4 px-lg-5 my-5">
+        <div class="text-center text-white">
+            <h1 class="display-4 fw-bolder">@ViewData["Title"]</h1>
+            <p class="lead fw-normal text-white-50 mb-0">We can keep best movie lists</p>
+        </div>
+    </div>
+</header>
+<!-- Section-->
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            @foreach (var movie in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card h-100">
+                        <!-- Movie image-->
+                       
+                        <img src="~/Media/Moviephoto.jpg" width="250" alt="photo">
+                        <!-- Product details-->
+                        <div class="card-body p-4">
+                            <div class="text-center">
+                                <!-- Movie name-->
+                                <h5 class="fw-bolder">@movie.MovieName</h5>
+                                <!-- Movie Published Year-->
+                                @movie.PublishedDate
+
+                            </div>
+                        </div>
+                        <!--  Actions-->
+                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                            <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="/Home/Details/@movie.Id">Movie Details</a></div>
+                            <div class="text-center"><a class="btn btn-outline-warning mt-auto" href="/Crud/Update/@movie.Id">Update</a></div>
+                            <div class="text-center"> <a class="btn btn-outline-danger mt-auto" href="~/Crud/Delete/@movie.Id">Delete</a></div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+
