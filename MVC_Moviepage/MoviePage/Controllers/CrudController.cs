@@ -32,7 +32,7 @@ namespace MoviePage.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Update(int id,Movie movieUpdated,Director director)
+        public IActionResult Update(int id,Movie movieUpdated)
         {
             var movie = db.Movies.Find(id);
             movie.Id = id;
