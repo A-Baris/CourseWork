@@ -1,0 +1,60 @@
+﻿@model List<Product>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="jumbotron">
+        <h1 class="display-4">Northwind</h1>
+        <p class="lead">#Northwind veritabanı, zengin bir ürün yelpazesi, güvenilir tedarikçiler ve  müşteri hizmetleri sunuyor. Ürünleri inceleyin, ihtiyacınıza uygun ürünleri seçin ve alışverişin keyfini çıkarın. Siparişlerinizi kolayca takip edebilir ve hesabınızı yönetebilirsiniz.</p>
+    
+       
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-12 ">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title mb-4">En Popüler Ürünler</h5>
+                    <div class="row">
+                    @foreach (var item in Model)
+                    {
+                            <div class="col-md-3">
+                                <div class="card mb-3 product-card-home">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between">
+                                            <h6 class="card-title">@item.ProductName</h6>
+                                            <h6 class="card-title">@item.UnitPrice₺</h6>
+                                        </div>
+                                        <p class="card-text">@item.Category.CategoryName</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                   
+                      
+                       
+
+    <div class="row mt-5">
+        <div class="col-md-6 ">
+            <div class="card mb-4 bg-smokewhite ">
+                <div class="card-body">
+                    <h5 class="card-title">Ürünleri İncele</h5>
+                    <p class="card-text">Northwind veritabanındaki ürünleri keşfedin ve detaylı bilgilerini görüntüleyin.</p>
+                    <a href="/Product/Index" class="btn btn-primary">Ürünleri İncele</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 ">
+            <div class="card mb-4 bg-smokeblue">
+                <div class="card-body">
+                    <h5 class="card-title">Tedarikçiler</h5>
+                    <p class="card-text">Northwind veritabanındaki tedarikçi bilgilerini görüntüleyin.</p>
+                    <a href="#" class="btn btn-primary">Tedarikçileri Görüntüle</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
