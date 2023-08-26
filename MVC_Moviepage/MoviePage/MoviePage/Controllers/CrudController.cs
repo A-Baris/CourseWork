@@ -46,6 +46,7 @@ namespace MoviePage.Controllers
                 data.PublishedDate = movieUpdated.PublishedDate;
                 data.Description = movieUpdated.Description;
                 data.TrailerHttp = movieUpdated.TrailerHttp;
+db.SaveChanges();
             }
             return RedirectToAction("Index","Home");
 
