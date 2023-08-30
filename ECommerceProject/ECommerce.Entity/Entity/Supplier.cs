@@ -1,17 +1,26 @@
-﻿using System;
+﻿using ECommerce.Entity.Base;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ECommerce.Entity.Entity
 {
-    public class Supplier
+    public class Supplier:BaseClass
     {
-        public int Id { get; set; }
-        public string ProductName { get; set; }
-        public string Description { get; set; }
-        public decimal UnitPrice { get; set; }
-        public short UnitsInStock { get; set; }
+        [MaxLength(255)]
+        public string CompanyName { get; set; }
+        [MaxLength(255)]
+        public string ContactName { get; set; }
+        [MaxLength(500)]
+        public string Adress { get; set; }
+        [MaxLength(15)]
+        public string PhoneNumber { get; set; }
+        [MaxLength(255)]
+        public string Email { get; set; }
+        public List<Product> Products { get; set; }
+
     }
 }
