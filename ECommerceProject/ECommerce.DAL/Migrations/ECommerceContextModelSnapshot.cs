@@ -66,6 +66,28 @@ namespace ECommerce.DAL.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CategoryName = "Giyim",
+                            CreatedComputerName = "DESKTOP-KUQ9PNH",
+                            CreatedDate = new DateTime(2023, 8, 30, 14, 54, 24, 151, DateTimeKind.Local).AddTicks(5987),
+                            CreatedIpAddress = "11111111111",
+                            Description = "Yazlık",
+                            Status = 0
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryName = "Teknoloji",
+                            CreatedComputerName = "DESKTOP-KUQ9PNH",
+                            CreatedDate = new DateTime(2023, 8, 30, 14, 54, 24, 151, DateTimeKind.Local).AddTicks(6030),
+                            CreatedIpAddress = "11111111111",
+                            Description = "Bilgisayar",
+                            Status = 0
+                        });
                 });
 
             modelBuilder.Entity("ECommerce.Entity.Entity.Product", b =>

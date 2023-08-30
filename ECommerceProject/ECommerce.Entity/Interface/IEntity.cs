@@ -9,7 +9,7 @@ namespace ECommerce.Entity.Interface
 {
     public interface IEntity<T>
     {
-        public T? MasterId { get; set; }
+       
 
         public int Id { get; set; }
       

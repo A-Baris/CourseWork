@@ -16,6 +16,7 @@ namespace ECommerce.Entity.Base
             CreatedDate = DateTime.Now;
             CreatedComputerName = Environment.MachineName;
             CreatedIpAddress = "11111111111"; //todo: Ip adress will update.
+           
         }
 
        
@@ -27,6 +28,6 @@ namespace ECommerce.Entity.Base
         public DateTime? UpdatedDate { get ; set ; }
         public string? UpdatedComputerName { get ; set ; }
         public string? UpdatedIpAddress { get ; set ; }
-        Guid IEntity<Guid>.MasterId { get ; set ; }
+    
     }
 }
