@@ -4,10 +4,78 @@
 *@
 @{
 }
-<h3>xxxxx</h3>
-@foreach (var item in Model)
-{
-    <h1>@item.CategoryName</h1>
-    <h1>@item.Description</h1>
-    <br />
-}
+<h3>Test</h3>
+<div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">X</th>
+            <th scope="col">Y</th>
+            <th scope="col">Z</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            
+        <tr>
+            <th scope="row">@item.Id</th>
+            <td>@item.CategoryName</td>
+            <td>@item.Description</td>
+            
+        </tr>
+        }
+      
+    </tbody>
+</table>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">X</th>
+            <th scope="col">Y</th>
+            <th scope="col">Z</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.ProductList)
+        {
+
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.ProductName</td>
+                <td>@item.Description</td>
+
+            </tr>
+        }
+
+    </tbody>
+   
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">X</th>
+                <th scope="col">Y</th>
+                <th scope="col">Z</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+            @foreach (var item in ViewBag.SupplierList)
+            {
+
+                <tr>
+                    <th scope="row">@item.Id</th>
+                    <td>@item.CompanyName</td>
+                    <td>@item.Adress</td>
+
+                </tr>
+            }
+
+        </tbody>
+</div>

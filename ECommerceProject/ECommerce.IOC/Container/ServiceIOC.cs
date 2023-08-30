@@ -18,6 +18,7 @@ namespace ECommerce.IOC.Container
             services.AddTransient(typeof(IRepository<>), typeof(BaseRepository<>));
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<ISupplierService, SupplierService>();
 
         }
     }

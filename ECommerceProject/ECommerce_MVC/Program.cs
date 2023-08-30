@@ -5,6 +5,7 @@ using ECommerce.BLL.Services;
 using ECommerce.DAL.Context;
 using ECommerce.Entity.Base;
 using ECommerce.IOC.Container;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +13,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 //Database Service
-builder.Services.AddDbContext<ECommerceContext>();
+builder.Services.AddDbContext<ECommerceContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 #region SamplesForServiceIOC
 //builder.Services.AddTransient(typeof(IRepository<>), typeof(BaseRepository<>));

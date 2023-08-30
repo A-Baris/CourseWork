@@ -12,6 +12,10 @@ namespace ECommerce.DAL.Context
 {
     public class ECommerceContext:IdentityDbContext
     {
+        public ECommerceContext(DbContextOptions<ECommerceContext>options):base(options)
+        {
+            
+        }
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
@@ -20,12 +24,7 @@ namespace ECommerce.DAL.Context
 
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-                optionsBuilder.UseSqlServer("server=DESKTOP-KUQ9PNH;database=ECommerceDB;uid=sa;pwd=1234;TrustServerCertificate=True");
-            base.OnConfiguring(optionsBuilder);
-        }
+      
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
