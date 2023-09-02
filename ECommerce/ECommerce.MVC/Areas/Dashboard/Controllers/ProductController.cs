@@ -37,7 +37,7 @@ namespace ECommerce.MVC.Areas.Dashboard.Controllers
 
             
             int selectedCategoryId = productVM.CategoryId; //select options'dan gelen category ıd tutuluyor
-            int selectedSupplierId = productVM.SupplierId; //select options'dan gelen category ıd tutuluyor
+            int selectedSupplierId = productVM.SupplierId; //select options'dan gelen supplier ıd tutuluyor
 
             if (ModelState.IsValid)
                 {
