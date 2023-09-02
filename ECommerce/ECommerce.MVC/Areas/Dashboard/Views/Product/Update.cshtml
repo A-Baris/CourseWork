@@ -1,0 +1,82 @@
+﻿@model ProductVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Dashboard/Views/Shared/_DashboardLayout.cshtml";
+}
+
+<div class="col-md-6 mx-auto">
+    <!-- general form elements -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Ürün Bilgileri</h3>
+        </div>
+        <!-- /.card-header -->
+        <!-- form start -->
+        <form method="post">
+            <div class="card-body">
+                <div class="form-group">
+                    <label>Ürün Id</label>
+                    <input type="text" class="form-control" placeholder="@Model.Id" asp-for="Id" disabled>
+                    <span asp-validation-for="Id"></span>
+                </div>
+                <div class="form-group">
+                    <label>Ürün Ad</label>
+                    <input type="text" class="form-control" placeholder="Ürün adı girin" asp-for="ProductName">
+                    <span asp-validation-for="ProductName"></span>
+                </div>
+                <div class="form-group">
+                    <label>Kategori Adı</label>
+                    <select class="form-control" asp-for="CategoryId">
+                        @foreach (var item in ViewBag.CategoryList)
+                        {
+                            <option value="@item.Id">@item.CategoryName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Tedarikçi Adı</label>
+                    <select class="form-control" asp-for="SupplierId">
+                        @foreach (var item in ViewBag.SupplierList)
+                        {
+                            <option value="@item.Id">@item.CompanyName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Ürün Fiyatı</label>
+                    <input type="text" class="form-control" placeholder="Ürün fiyatı girin" asp-for="UnitPrice">
+                    <span asp-validation-for="UnitPrice"></span>
+                </div>
+                <div class="form-group">
+                    <label>Stok Adet</label>
+                    <input type="text" class="form-control" placeholder="Ürün stok girin" asp-for="UnitsInStock">
+                    <span asp-validation-for="UnitsInStock"></span>
+                </div>
+                <div class="form-group">
+                    <label>Image Url</label>
+                    <input type="text" class="form-control" placeholder="Ürün İmage Url girin" asp-for="ImagePath">
+                    <span asp-validation-for="ImagePath"></span>
+                </div>
+                <div class="form-group">
+                    <label>Ürün Açıklama</label>
+                    <textarea class="form-control" cols="5" rows="8" placeholder="Ürün açıklama" asp-for="Description"></textarea>
+
+                </div>
+            </div>
+            <!-- /.card-body -->
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">Ürün Güncelle</button>
+            </div>
+        </form>
+    </div>
+    <!-- /.card -->
+    <!-- general form elements -->
+    <!-- /.card -->
+    <!-- Input addon -->
+    <!-- /.card -->
+    <!-- Horizontal Form -->
+    <!-- /.card -->
+
+</div>
+

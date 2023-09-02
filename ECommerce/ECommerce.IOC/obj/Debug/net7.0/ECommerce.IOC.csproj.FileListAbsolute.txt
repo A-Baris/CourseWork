@@ -1,0 +1,39 @@
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.IOC.deps.json
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.IOC.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.IOC.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.BLL.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.DAL.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.BLL.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.DAL.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\refint\ECommerce.IOC.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ref\ECommerce.IOC.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.IOC.deps.json
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.IOC.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.IOC.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.BLL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.DAL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.BLL.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.DAL.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\bin\Debug\net7.0\ECommerce.Entity.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.AssemblyInfo.cs
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.sourcelink.json
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.csproj.CopyComplete
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\refint\ECommerce.IOC.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ECommerce.IOC.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.IOC\obj\Debug\net7.0\ref\ECommerce.IOC.dll

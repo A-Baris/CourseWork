@@ -1,0 +1,24 @@
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\bin\Debug\net7.0\ECommerce.Entity.deps.json
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\bin\Debug\net7.0\ECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\bin\Debug\net7.0\ECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\refint\ECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ref\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\bin\Debug\net7.0\ECommerce.Entity.deps.json
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\bin\Debug\net7.0\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\bin\Debug\net7.0\ECommerce.Entity.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.AssemblyInfo.cs
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.sourcelink.json
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\refint\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ref\ECommerce.Entity.dll

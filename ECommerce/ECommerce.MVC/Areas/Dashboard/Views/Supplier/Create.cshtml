@@ -1,0 +1,66 @@
+﻿@model SupplierVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Dashboard/Views/Shared/_DashboardLayout.cshtml";
+}
+
+<div class="col-md-6 mx-auto">
+    <!-- general form elements -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Tedarikçi Bilgileri</h3>
+        </div>
+        <!-- /.card-header -->
+        <!-- form start -->
+        <form method="post">
+            <div class="card-body">
+                <div class="form-group">
+                    <label>Şirket Adı</label>
+                    <input type="text" class="form-control" placeholder="Şirket Adı" asp-for="CompanyName">
+                    <span asp-validation-for="CompanyName"></span>
+                </div>
+                <div class="form-group">
+                    <label>Yetkili Adı</label>
+                    <input type="text" class="form-control" placeholder="Yetkili Adı" asp-for="ContactName">
+                    <span asp-validation-for="ContactName"></span>
+                </div>
+                <div class="form-group">
+                    <label>Görevi</label>
+                    <input type="text" class="form-control" placeholder="Görevi" asp-for="ContactTitle">
+                    <span asp-validation-for="ContactTitle"></span>
+                </div>
+                <div class="form-group">
+                    <label>Telefon</label>
+                    <input type="text" class="form-control" placeholder="Telefon" asp-for="PhoneNumber">
+                    <span asp-validation-for="PhoneNumber"></span>
+                </div>
+                <div class="form-group">
+                    <label>Adres</label>
+                    <input type="text" class="form-control" placeholder="Adres" asp-for="Adress">
+                    <span asp-validation-for="Adress"></span>
+                </div>
+                <div class="form-group">
+                    <label>Ülke</label>
+                    <input type="text" class="form-control" placeholder="Ülke" asp-for="Country">
+                    <span asp-validation-for="Country"></span>
+                </div>
+               
+            </div>
+            <!-- /.card-body -->
+
+            <div class="card-footer">
+                <button type="submit" class="btn btn-primary">Create Supplier</button>
+            </div>
+        </form>
+    </div>
+    <!-- /.card -->
+    <!-- general form elements -->
+    <!-- /.card -->
+    <!-- Input addon -->
+    <!-- /.card -->
+    <!-- Horizontal Form -->
+    <!-- /.card -->
+
+</div>
+
+

@@ -1,0 +1,35 @@
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.BLL.deps.json
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.BLL.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.BLL.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.DAL.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.Entity.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.DAL.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.Entity.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.AssemblyInfoInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.AssemblyInfo.cs
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.csproj.CopyComplete
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\refint\ECommerce.BLL.dll
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.pdb
+C:\Users\FatihGunalp\Desktop\YZL3165\8-Project\29.08.2023\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ref\ECommerce.BLL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.BLL.deps.json
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.BLL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.BLL.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.DAL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.DAL.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\bin\Debug\net7.0\ECommerce.Entity.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.AssemblyInfo.cs
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.sourcelink.json
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.csproj.CopyComplete
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\refint\ECommerce.BLL.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ECommerce.BLL.pdb
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.BLL\obj\Debug\net7.0\ref\ECommerce.BLL.dll
