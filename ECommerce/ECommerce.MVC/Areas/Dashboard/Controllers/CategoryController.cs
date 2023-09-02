@@ -1,4 +1,5 @@
 ﻿using ECommerce.BLL.AbstractServices;
+using ECommerce.BLL.Services;
 using ECommerce.Entity.Entity;
 using ECommerce.MVC.Areas.Dashboard.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
@@ -20,6 +21,7 @@ namespace ECommerce.MVC.Areas.Dashboard.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.OfflineCategories = _categoryService.GetOfflineCategories();
             return View(_categoryService.GetAllCategories());
         }
 

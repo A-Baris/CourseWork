@@ -9,6 +9,7 @@ namespace ECommerce.BLL.AbstractServices
 {
     public interface ISupplierService
     {
+        IEnumerable<Supplier> GetOfflineSuppliers();
         //List
         IEnumerable<Supplier> GetAllSuppliers();
 

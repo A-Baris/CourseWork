@@ -45,6 +45,11 @@ namespace ECommerce.BLL.Services
             return _categoryRepository.GetbyId(id);
         }
 
+        public IEnumerable<Category> GetOfflineCategories()
+        {
+           return _categoryRepository.GetOffline();
+        }
+
         public string Update(Category entity)
         {
            return _categoryRepository.Update(entity);

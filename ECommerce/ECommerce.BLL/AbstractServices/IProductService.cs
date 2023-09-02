@@ -9,6 +9,7 @@ namespace ECommerce.BLL.AbstractServices
 {
     public interface IProductService
     {
+        IEnumerable<Product> GetOfflineProducts();
         //List
         IEnumerable<Product> GetAllProducts();
 

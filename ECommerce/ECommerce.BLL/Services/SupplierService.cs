@@ -37,6 +37,11 @@ namespace ECommerce.BLL.Services
             return _supplierRepository.GetbyId(id);
         }
 
+        public IEnumerable<Supplier> GetOfflineSuppliers()
+        {
+            return _supplierRepository.GetOffline();
+        }
+
         public string Update(Supplier entity)
         {
            return _supplierRepository.Update(entity);

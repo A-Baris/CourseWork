@@ -20,6 +20,7 @@ namespace ECommerce.MVC.Areas.Dashboard.Controllers
         }
         public IActionResult Index()
         {
+           ViewBag.OfflineProduct=_productService.GetOfflineProducts();
             ViewBag.SupplierList = _supplierService.GetAllSuppliers();
             ViewBag.CategoryList=_categoryService.GetAllCategories();
             return View(_productService.GetAllProducts());

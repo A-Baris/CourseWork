@@ -18,6 +18,7 @@ namespace ECommerce.MVC.Areas.Dashboard.Controllers
         }
         public IActionResult Index()
         {
+            ViewBag.SupplierOffline=_supplierService.GetOfflineSuppliers();
             return View(_supplierService.GetAllSuppliers());
         }
         public IActionResult Create()

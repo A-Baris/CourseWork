@@ -2,6 +2,7 @@
 @{
     ViewData["Title"] = "Ürün Listesi";
     Layout = "~/Areas/Dashboard/Views/Shared/_DashboardLayout.cshtml";
+    ViewData["Title2"] = "Offline Ürün Listesi";
 }
 @if (TempData["result"] != null)
 {
@@ -9,8 +10,15 @@
         @TempData["result"]
     </div>
 }
+
+    
+<div style="background-color:green">
+ <br />
+ </div>
 <section>
+    <div style="background-color:green">
     <div class="row">
+        </div>
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header">
@@ -115,5 +123,123 @@
             </div>
         </div>
     </div>
+    </section>
+    <section>
+        <div style="background-color:yellow">
+        <br />
+       
+    </div>
+    </section>
+
+
+    <section>
+        <div style="background-color:yellow">
+    <div class="row">
+        </div>
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <div class="d-flex justify-content-between">
+                        <h2>@ViewData["Title2"]</h2>
+                      
+                    </div>
+                </div>
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+
+                                <th>ID</th>
+                                <th>Ürün Ad</th>
+                                <th>Fiyat</th>
+                                <th>Stok</th>
+                                <th>Kategori</th>
+                                <th>Tedarikçi</th>
+                                <th>Açıklama</th>
+                                <th>Image</th>
+                                <th>Durum</th>
+                                <th></th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var productOffline in ViewBag.OfflineProduct)
+                    
+                            if(productOffline != null)
+                            {
+                                <tr>
+                                    <td>@productOffline.Id</td>
+                                    <td>@productOffline.ProductName</td>
+                                    <td>@productOffline.UnitPrice</td>
+                                    <td>@productOffline.UnitsInStock</td>
+                                    @if (productOffline.Category != null)
+                                    {
+                                        <td>@productOffline.Category.CategoryName</td>
+                                    }
+                                    else
+                                    {
+                                        <td>***</td>
+                                    }
+
+                                    @if (productOffline.Supplier != null)
+                                    {
+                                        <td>@productOffline.Supplier.CompanyName</td>
+                                    }
+                                    else
+                                    {
+                                        <td>***</td>
+                                    }
+
+                                    <td>@productOffline.Description</td>
+                                    <td>@productOffline.ImagePath</td>
+                                    <td>
+                                        @switch (productOffline.Status)
+                                        {
+
+                                            case ECommerce.Entity.Enum.Status.Active:
+                                                <span>Aktif</span>
+                                                break;
+                                            case ECommerce.Entity.Enum.Status.Deleted:
+                                                <span>Silinmiş</span>
+                                                break;
+                                            case ECommerce.Entity.Enum.Status.Updated:
+                                                <span>Güncellenmiş</span>
+                                                break;
+
+
+
+
+
+                                        }
+                                    </td>
+
+                                    <td>
+                                        <a asp-action="Update" asp-controller="Product" asp-route-id="@productOffline.Id" class="btn btn-warning btn-sm">Update</a>
+                                       
+                                    </td>
+                                </tr>
+                            }
+                        
+                        else
+                        {
+                        
+                        <tr>
+                            <th colspan="5">
+                                <span>Herhangi bir ürün offline değil</span>
+                            </th>
+                        </tr>
+                        
+                        }
+                        </tbody>
+                    </table>
+                                
+                            
+                        
+                        
+                     
+                         </div>
+                        </div>
+                    </div>
+                </div>
 </section>
 

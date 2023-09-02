@@ -69,6 +69,11 @@ namespace ECommerce.BLL.Concretes
             return _entities.Find(id);
         }
 
+        public IEnumerable<T> GetOffline()
+        {
+            return _entities.Where(x => x.Status == Entity.Enum.Status.Deleted).ToList();
+        }
+
         public string Update(T entity)
         {
             try

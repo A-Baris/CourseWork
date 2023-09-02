@@ -40,6 +40,11 @@ namespace ECommerce.BLL.Services
             return _productRepository.GetbyId(id);
         }
 
+        public IEnumerable<Product> GetOfflineProducts()
+        {
+            return _productRepository.GetOffline();
+        }
+
         public string Update(Product entity)
         {
            return _productRepository.Update(entity);

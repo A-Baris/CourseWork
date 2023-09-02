@@ -9,6 +9,8 @@ namespace ECommerce.BLL.Abstracts
 {
     public interface IRepository<T> where T:BaseClass
     {
+        IEnumerable<T> GetOffline();
+        
         //List
         IEnumerable<T> GetAll();
 

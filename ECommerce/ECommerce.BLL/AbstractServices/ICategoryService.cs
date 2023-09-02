@@ -9,6 +9,7 @@ namespace ECommerce.BLL.AbstractServices
 {
     public interface ICategoryService
     {
+        IEnumerable<Category> GetOfflineCategories();
         //List
         IEnumerable<Category> GetAllCategories();
 
