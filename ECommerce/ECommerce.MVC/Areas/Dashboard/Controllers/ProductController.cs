@@ -76,6 +76,7 @@ namespace ECommerce.MVC.Areas.Dashboard.Controllers
                 ProductName = product.ProductName,
                 Description = product.Description,
                 CategoryId = product.CategoryId,
+                SupplierId = product.SupplierId,
                 UnitPrice = product.UnitPrice,
                 UnitsInStock = product.UnitsInStock,
                 ImagePath = product.ImagePath,
