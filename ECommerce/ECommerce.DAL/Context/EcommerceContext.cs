@@ -87,9 +87,10 @@ namespace ECommerce.DAL.Context
             //Aktarılan Ip adreslerinden IPv4 adresini bulmak için döngü kullanıyoruz
             foreach (IPAddress address in addresses)
             {
-                if (address.AddressFamily == AddressFamily.InterNetwork)
+                //Ip adreslerinin Ipv4 adresi olup olmadığını kontrol eder. Örnek:Eğer IPv6 ise onu pas geçer
+                if (address.AddressFamily == AddressFamily.InterNetwork)  
                 {
-                    ipAddress = address.ToString(); //string eğişkene Ipv4 adresini aktardık
+                    ipAddress = address.ToString(); //string değişkene Ipv4 adresini aktardık
                     break; // ilk bulunan adresten sonra artık döngüyü sonlandırıyoruz
                 }
             }
