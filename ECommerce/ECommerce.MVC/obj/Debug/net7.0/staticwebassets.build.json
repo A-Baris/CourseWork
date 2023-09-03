@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "D3zQZSZ3C9YmBMYC0dCJgbf3KjRW237cN661eBDkuQs=",
+  "Hash": "A48XN+q4Sg2a7W7E0j1NqLO8MnX/cTVgtfMhDeQECTo=",
   "Source": "ECommerce.MVC",
   "BasePath": "_content/ECommerce.MVC",
   "Mode": "Default",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "ECommerce.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\",
+      "BasePath": "_content/ECommerce.MVC",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\css\\styles.css",
+      "SourceId": "ECommerce.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\",
+      "BasePath": "_content/ECommerce.MVC",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
     {
       "Identity": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\dist\\css\\adminlte.css",
       "SourceId": "ECommerce.MVC",
@@ -1364,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\js\\scripts.js",
+      "SourceId": "ECommerce.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\",
+      "BasePath": "_content/ECommerce.MVC",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",

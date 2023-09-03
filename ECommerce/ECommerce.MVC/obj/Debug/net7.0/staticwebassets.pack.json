@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\dist\\css\\adminlte.css",
       "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
     },
@@ -283,6 +291,10 @@
     {
       "Id": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.MVC\\wwwroot\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
