@@ -1,0 +1,42 @@
+﻿@model ECommerce.MVC.Models.RegisterDTO
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12 mx-auto">
+    <form method="post">
+
+        <div asp-validation-summary="All">
+        </div>
+
+        <div class="col-md-4 mx-auto">
+            <label>Kullanıcı adı</label>
+            <input type="text" class="form-control" name="UserName" required />
+            <span asp-validation-for="UserName"></span>
+           
+        </div>
+        <div class="col-md-4 mx-auto">
+            <label>Şifre</label>
+            <input type="text" class="form-control" name="Password" />
+            <span asp-validation-for="Password"></span>
+           
+        </div>
+        <div class="col-md-4 mx-auto">
+            <label>Şifre Tekrar</label>
+            <input type="text" class="form-control" name="ConfirmPassword" />
+            <span asp-validation-for="ConfirmPassword"></span>
+
+        </div>
+        <div class="col-md-4 mx-auto">
+            <label>Email</label>
+            <input type="text" class="form-control" name="Email" />
+            <span asp-validation-for="Email"></span>
+
+        </div>
+     <br />
+
+            <button type="submit" class="btn btn-primary" style="margin-left:45%;width:200px" >Register</button>
+     
+    </form>
+</div>

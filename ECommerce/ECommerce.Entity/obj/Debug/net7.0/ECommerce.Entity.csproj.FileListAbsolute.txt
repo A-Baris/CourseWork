@@ -22,3 +22,4 @@ D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\E
 D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\refint\ECommerce.Entity.dll
 D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.pdb
 D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ref\ECommerce.Entity.dll
+D:\Program Files\GitHub\CourseWork\ECommerce\ECommerce.Entity\obj\Debug\net7.0\ECommerce.Entity.csproj.AssemblyReference.cache

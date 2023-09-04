@@ -8,9 +8,13 @@ using System.Reflection.Emit;
 
 namespace ECommerce.DAL.Context
 {
-    public class EcommerceContext : IdentityDbContext
+    public class EcommerceContext : IdentityDbContext<AppUser>
     {
-     
+        public EcommerceContext(DbContextOptions<EcommerceContext> options):base(options) 
+        {
+            
+        }
+
 
 
 
@@ -21,11 +25,7 @@ namespace ECommerce.DAL.Context
        
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("server=DESKTOP-KUQ9PNH;database=ECommerceDB;uid=sa;pwd=1234;TrustServerCertificate=True");
-            base.OnConfiguring(optionsBuilder);
-        }
+
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

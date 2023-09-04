@@ -18,6 +18,7 @@ namespace ECommerce.Entity.Base
             //CreatedComputerName = Environment.MachineName;
             //CreatedIpAddress = "161.192.1.1"; //todo: Ip adresi alınacak.
             MasterId = Guid.NewGuid();
+
         }
        
         public int Id { get ; set ; }
@@ -30,5 +31,7 @@ namespace ECommerce.Entity.Base
         public string? UpdatedIpAddress { get ; set ; }
 
         public Guid MasterId { get; set; }
+
+
     }
 }

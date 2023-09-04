@@ -729,6 +729,9 @@
         }
       },
       "ECommerce.Entity/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.10"
+        },
         "runtime": {
           "ECommerce.Entity.dll": {}
         }

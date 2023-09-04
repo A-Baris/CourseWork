@@ -3,7 +3,10 @@ using ECommerce.BLL.AbstractServices;
 using ECommerce.BLL.Concretes;
 using ECommerce.BLL.Services;
 using ECommerce.DAL.Context;
+using ECommerce.Entity.Entity;
 using ECommerce.IOC.Container;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.DotNet.Scaffolding.Shared.ProjectModel;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,9 +18,21 @@ builder.Services.AddControllersWithViews();
 
 
 //Database Service
-builder.Services.AddDbContext<EcommerceContext>();
+builder.Services.AddDbContext<EcommerceContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+//identity
 
+builder.Services.AddIdentity<AppUser, IdentityRole>()
+    .AddEntityFrameworkStores<EcommerceContext>();
+
+builder.Services.Configure<IdentityOptions>(x =>
+{
+    x.Password.RequireNonAlphanumeric = false;
+    x.Password.RequireDigit = false;
+    x.Password.RequiredLength = 6;
+    x.Password.RequireLowercase = false;
+    x.Password.RequireUppercase = false;
+});
 
 
 
