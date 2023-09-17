@@ -175,3 +175,5 @@ D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.API\obj\Debug\net7.0
 D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.API\obj\Debug\net7.0\ref\NLayer.API.dll
 D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.API\bin\Debug\net7.0\Autofac.dll
 D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.API\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.API\bin\Debug\net7.0\NLayer.Caching.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.API\bin\Debug\net7.0\NLayer.Caching.pdb

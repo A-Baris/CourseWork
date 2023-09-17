@@ -1260,6 +1260,19 @@
           }
         }
       },
+      "NLayer.Caching/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "NLayer.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NLayer.Caching.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLayer.Caching.dll": {}
+        }
+      },
       "NLayer.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3577,6 +3590,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "NLayer.Caching/1.0.0": {
+      "type": "project",
+      "path": "../NLayer.Caching/NLayer.Caching.csproj",
+      "msbuildProject": "../NLayer.Caching/NLayer.Caching.csproj"
+    },
     "NLayer.Core/1.0.0": {
       "type": "project",
       "path": "../NLayer.Core/NLayer.Core.csproj",
@@ -3598,7 +3616,7 @@
       "Autofac.Extensions.DependencyInjection >= 8.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
-      "NLayer.Service >= 1.0.0",
+      "NLayer.Caching >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -3634,8 +3652,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Program Files\\GitHub\\CourseWork\\ApiWork\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
-              "projectPath": "D:\\Program Files\\GitHub\\CourseWork\\ApiWork\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
+            "D:\\Program Files\\GitHub\\CourseWork\\ApiWork\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\CourseWork\\ApiWork\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj"
             }
           }
         }

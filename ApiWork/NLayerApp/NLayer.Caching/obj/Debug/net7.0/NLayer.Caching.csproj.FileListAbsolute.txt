@@ -21,3 +21,11 @@ D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\obj\Debug\ne
 D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\obj\Debug\net7.0\refint\NLayer.Caching.dll
 D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.pdb
 D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\obj\Debug\net7.0\ref\NLayer.Caching.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\bin\Debug\net7.0\NLayer.Core.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\bin\Debug\net7.0\NLayer.Repository.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\bin\Debug\net7.0\NLayer.Service.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\bin\Debug\net7.0\NLayer.Service.pdb
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\bin\Debug\net7.0\NLayer.Core.pdb
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\bin\Debug\net7.0\NLayer.Repository.pdb
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Caching\obj\Debug\net7.0\NLayer.Caching.csproj.CopyComplete
