@@ -1,0 +1,35 @@
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.deps.json
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.dll
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.dll
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.pdb
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.dll
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\refint\NLayer.Repository.dll
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.pdb
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.runtimeconfig.json
+C:\Users\ahmet\OneDrive\Desktop\Api\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.genruntimeconfig.cache
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.deps.json
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.runtimeconfig.json
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Repository.pdb
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\bin\Debug\net7.0\NLayer.Core.pdb
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.AssemblyReference.cache
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfoInputs.cache
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.AssemblyInfo.cs
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.sourcelink.json
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.csproj.CopyComplete
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\refint\NLayer.Repository.dll
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.pdb
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\NLayer.Repository.genruntimeconfig.cache
+D:\Program Files\GitHub\CourseWork\ApiWork\NLayerApp\NLayer.Repository\obj\Debug\net7.0\ref\NLayer.Repository.dll
