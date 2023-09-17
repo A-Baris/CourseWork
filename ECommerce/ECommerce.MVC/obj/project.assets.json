@@ -3886,6 +3886,16 @@
           "bin/placeholder/ECommerce.BLL.dll": {}
         }
       },
+      "ECommerce.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ECommerce.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.Common.dll": {}
+        }
+      },
       "ECommerce.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -11306,6 +11316,11 @@
       "path": "../ECommerce.BLL/ECommerce.BLL.csproj",
       "msbuildProject": "../ECommerce.BLL/ECommerce.BLL.csproj"
     },
+    "ECommerce.Common/1.0.0": {
+      "type": "project",
+      "path": "../ECommerce.Common/ECommerce.Common.csproj",
+      "msbuildProject": "../ECommerce.Common/ECommerce.Common.csproj"
+    },
     "ECommerce.DAL/1.0.0": {
       "type": "project",
       "path": "../ECommerce.DAL/ECommerce.DAL.csproj",
@@ -11325,6 +11340,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "ECommerce.BLL >= 1.0.0",
+      "ECommerce.Common >= 1.0.0",
       "ECommerce.DAL >= 1.0.0",
       "ECommerce.IOC >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.9"
@@ -11364,6 +11380,9 @@
           "projectReferences": {
             "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.BLL\\ECommerce.BLL.csproj": {
               "projectPath": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.BLL\\ECommerce.BLL.csproj"
+            },
+            "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj": {
+              "projectPath": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj"
             },
             "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.DAL\\ECommerce.DAL.csproj": {
               "projectPath": "D:\\Program Files\\GitHub\\CourseWork\\ECommerce\\ECommerce.DAL\\ECommerce.DAL.csproj"

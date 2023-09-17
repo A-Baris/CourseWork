@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ECommerce.BLL\ECommerce.BLL.csproj" />
+    <ProjectReference Include="..\ECommerce.Common\ECommerce.Common.csproj" />
     <ProjectReference Include="..\ECommerce.DAL\ECommerce.DAL.csproj" />
     <ProjectReference Include="..\ECommerce.IOC\ECommerce.IOC.csproj" />
   </ItemGroup>

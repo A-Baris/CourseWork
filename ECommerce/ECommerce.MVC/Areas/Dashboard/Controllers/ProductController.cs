@@ -1,4 +1,5 @@
 ﻿using ECommerce.BLL.AbstractServices;
+using ECommerce.Common;
 using ECommerce.Entity.Entity;
 using ECommerce.MVC.Areas.Dashboard.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
@@ -29,15 +30,33 @@ namespace ECommerce.MVC.Areas.Dashboard.Controllers
         {
             ViewBag.CategoryList = _categoryService.GetAllCategories();
             ViewBag.SupplierList=_supplierService.GetAllSuppliers();
+
             return View();
         }
         [HttpPost]
-        public IActionResult Create(ProductVM productVM)
+        public IActionResult Create(ProductVM productVM,IFormFile productImage)
         {
+            string path = "";
+            var imageResult = "";
+            if(productImage!=null)
+            {
 
-            
+                imageResult = ImageUploader.ImageChangeName(productImage.FileName);
+                    
+            }
+            if(imageResult!="" && imageResult!="0")
+            {
+                productVM.ImagePath = imageResult;
+                path = Path.Combine(Directory.GetCurrentDirectory(), "www\\images", imageResult);
+            }
+            using (var stream = new FileStream(path, FileMode.Create))
+            {
+                productImage.CopyToAsync(stream);
+            }
+
             int selectedCategoryId = productVM.CategoryId; //select options'dan gelen category ıd tutuluyor
             int selectedSupplierId = productVM.SupplierId; //select options'dan gelen supplier ıd tutuluyor
+            
 
             if (ModelState.IsValid)
                 {

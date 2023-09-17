@@ -25,6 +25,7 @@ namespace ECommerce.BLL.Concretes
         {
             try
             {
+               
                 _entities.Add(entity);
                 _context.SaveChanges();
                 return "veri kaydedildi";
