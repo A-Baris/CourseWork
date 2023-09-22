@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using NLayer.Core.DTOs;
 using NLayer.Core.Entity;
 using NLayer.Core.Services;
+using WebTestProject.Web.Filter;
 
 namespace WebTestProject.Web.Controllers
 {
@@ -46,7 +47,7 @@ namespace WebTestProject.Web.Controllers
             ViewBag.Categories = new SelectList(categoriesDto, "Id", "Name");
             return View();
         }
-
+        [ServiceFilter(typeof(NotFoundFilter<Product>))]
         public async Task<IActionResult>Update(int id)
         {
             var product = await _productService.GetbyIdAsync(id);
