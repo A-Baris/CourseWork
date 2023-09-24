@@ -6,8 +6,10 @@ using NLayer.Repository;
 using NLayer.Service.Mapping;
 using NLayer.Service.Validations;
 using System.Reflection;
+using System.Security.Policy;
 using WebTestProject.Web.Filter;
 using WebTestProject.Web.Modules;
+using WebTestProject.Web.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +25,15 @@ builder.Services.AddDbContext<AppDbContext>(x =>
     });
 });
 
+builder.Services.AddHttpClient<ProductApiService>(opt =>
+{
+    opt.BaseAddress = new Uri(builder.Configuration["BaseUrl"]);
+});
+
+builder.Services.AddHttpClient<CategoryApiService>(opt =>
+{
+    opt.BaseAddress = new Uri(builder.Configuration["BaseUrl"]);
+});
 builder.Services.AddScoped(typeof(NotFoundFilter<>));
 
 builder.Host.UseServiceProviderFactory
