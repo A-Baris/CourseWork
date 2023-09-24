@@ -7,12 +7,12 @@ namespace Northwind.Web.Controllers
     public class OrderController : Controller
     {
         private readonly IOrderRepository _orderRepository;
-        private readonly NorthwindContext _context;
+       
 
-        public OrderController(IOrderRepository orderRepository,NorthwindContext context)
+        public OrderController(IOrderRepository orderRepository)
         {
             _orderRepository = orderRepository;
-           _context = context;
+           
         }
         [HttpGet]
         public IActionResult Index()
