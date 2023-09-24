@@ -18,14 +18,13 @@ namespace Northwind.Web.Controllers
         public IActionResult Index()
         {
 
-
             return View();
 
         }
         [HttpPost]
         public IActionResult Index(int year)
         {
-       
+           ViewBag.Year = year;
             var orders = _orderRepository.GetOrdersInYear(year);
             var x = orders.ToList();
             if (x.Count>0)
