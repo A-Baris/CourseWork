@@ -23,19 +23,15 @@ namespace Northwind.BLL.Services
         public IEnumerable<OrderDTO> GetAllOrders()
         {
             //select ShipCountry,count(ShipCountry) as 'Total Orders' from Orders group by ShipCountry order by [Total Orders] desc
-       var query = _context.Orders
-      .GroupBy(x => x.ShipCountry)
-      .Select(y => new
-      {
-          ShipCountry = y.Key,
-          TotalOrders = y.Count()
-      })
-      .OrderByDescending(z => z.TotalOrders)
-      .Select(z => new OrderDTO
-      {
-          ShipCountry = z.ShipCountry,
-          TotalOrders = z.TotalOrders
-      }).ToList();
+            var query = _context.Orders
+           .GroupBy(x => x.ShipCountry)
+           .Select(g => new OrderDTO
+           {
+               ShipCountry = g.Key,
+               TotalOrders = g.Count()
+           })
+           .OrderByDescending(o => o.TotalOrders)
+           .ToList();
             return query;
         }
 

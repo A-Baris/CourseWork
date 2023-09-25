@@ -26,8 +26,8 @@ namespace Northwind.Web.Controllers
         {
            ViewBag.Year = year;
             var orders = _orderRepository.GetOrdersInYear(year);
-            var x = orders.ToList();
-            if (x.Count>0)
+            var ordersList = orders.ToList();
+            if (ordersList.Count>0)
             {
                 return View(orders);
 
