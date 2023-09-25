@@ -47,11 +47,12 @@ namespace Northwind.BLL.Services
 
                     ShipCountry = x.Key,
                     TotalOrders = x.Count()
-
+                    //key koleksiyon mantığındaki key yapısını temsil eder. Aynı isimdeki key tekrarlanmaz ki buradaki key ShipCountry dir.
+                    //Satır sayısı count ile toplanır key e karşılık gelen toplam miktar TotalOrders altında gösterilir.
 
                 })
                 .OrderByDescending(result => result.TotalOrders);
-
+     
 
             return query.ToList();
         }
