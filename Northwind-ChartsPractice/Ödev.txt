@@ -1,0 +1,6 @@
+--en çok ürün satýþý yapýlan kategorileri satýþ adetleri ile birlikte 'pie chart' içerisinde dilimler halinde gösterin.
+
+
+select CategoryName,Count(OrderID) as 'Total' from Categories c
+join Products p on c.CategoryID = p.CategoryID
+join [Order Details] od on p.ProductID = od.ProductID group by CategoryName order by Total desc

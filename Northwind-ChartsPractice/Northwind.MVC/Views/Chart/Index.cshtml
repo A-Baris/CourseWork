@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Pie Chart</h1>
+<div>
+    <canvas id="myChart"></canvas>
+</div>
+
+@section Scripts{
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+
+        var categorySalesData=[];
+
+        $(document).ready(function(){
+        //     //Ajax
+            $.ajax({
+                url: 'https://localhost:7004/api/categories/bestsellercategories',
+                type:'get',
+                success: function (data) {
+                    data.forEach(function (val, i){
+                        categorySalesData.push(val);
+                    })
+                    BestSellerCategoryChart();
+                },
+                error: function (err) {
+
+                }
+            })
+
+        })
+
+
+    
+        function BestSellerCategoryChart() {
+
+            var categories = categorySalesData.map(function (value) {
+                return value.categoryName;
+            })
+            var salesQuantity = categorySalesData.map(function (value) {
+                return value.total;
+            })
+
+            console.log(categories);
+            console.log(salesQuantity);
+            const ctx = document.getElementById('myChart');
+
+            new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: categories,
+                    datasets: [{
+                        label: 'Quantities of Sale',
+                        data: salesQuantity,
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+
+}
+
